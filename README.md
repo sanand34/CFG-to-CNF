@@ -1,2 +1,2 @@
 # CFG-to-CNF
-![alt text](screenshot.png)
+![alt text](./screenshot.png)
